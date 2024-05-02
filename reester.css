@@ -48,6 +48,7 @@ body {
 
 .content .food-images {
     margin: 0px;
+    margin-right: 10px;
 }
 .content .food-images .food-image {
     display: inline-block;
